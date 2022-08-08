@@ -3,6 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 9 hrs 41 mins
+
 TypeScript   9 hrs 2 mins    ███████████████░░░░░░░░░░   59.95 %
 Markdown     1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
 Other        1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
