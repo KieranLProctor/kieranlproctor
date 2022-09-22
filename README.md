@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 hrs 57 mins
+Total Time: 4 hrs 9 mins
 
-C++           3 hrs 6 mins    ███████████████▒░░░░░░░░░   61.12 %
-TypeScript    1 hr 34 mins    ███████▓░░░░░░░░░░░░░░░░░   30.93 %
-Other         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+C++           3 hrs 6 mins    ██████████████████░░░░░░░   72.42 %
+TypeScript    47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+Other         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
