@@ -3,14 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 39 mins
+Total Time: 1 hr 30 mins
 
-Python           1 hr 8 mins     ██████████▓░░░░░░░░░░░░░░   42.78 %
-PHP              1 hr 3 mins     ██████████░░░░░░░░░░░░░░░   39.69 %
-JavaScript       19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Bash             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-JSON             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PHP              1 hr 3 mins     █████████████████▓░░░░░░░   70.08 %
+Python           23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
+JSON             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
