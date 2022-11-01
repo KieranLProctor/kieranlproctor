@@ -5,7 +5,8 @@
 ```text
 Total Time: 59 mins
 
-Python   59 mins         █████████████████████████   100.00 %
+Python   59 mins         █████████████████████████   99.61 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
