@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 13 mins
+Total Time: 14 mins
 
-Python   59 mins         ███████████████████▓░░░░░   78.69 %
-PHP      14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+PHP     14 mins         ███████████████████████░░   91.70 %
+Other   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
 ```
 
 <!--END_SECTION:waka-->
