@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 mins
-
-PHP     14 mins         ███████████████████████▒░   92.99 %
-Other   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
