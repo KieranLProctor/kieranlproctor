@@ -3,7 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 2 mins
+
+JSON         1 min           ███████████████████░░░░░░   75.54 %
+JavaScript   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+PHP          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
