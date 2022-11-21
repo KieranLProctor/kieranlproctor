@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 mins
+Total Time: 9 mins
 
-C++          9 mins          ██████████████████▒░░░░░░   73.63 %
-JSON         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+C++     9 mins          ███████████████████████░░   91.59 %
+Other   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
