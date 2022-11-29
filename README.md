@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 mins
+Total Time: 10 mins
 
-C++   8 mins          █████████████████████████   100.00 %
+C++   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
