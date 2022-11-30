@@ -3,9 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 mins
+Total Time: 15 mins
 
-C++   10 mins         █████████████████████████   100.00 %
+PHP     14 mins         █████████████████░░░░░░░░   68.34 %
+Other   4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.03 %
 ```
 
 <!--END_SECTION:waka-->
