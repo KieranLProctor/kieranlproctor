@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 31 mins
-
-PHP   31 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
