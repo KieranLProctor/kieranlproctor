@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 0 secs
+
+JSON   0 secs          ████████████████▒░░░░░░░░   65.81 %
+HTML   0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+CSS    0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
 ```
 
 <!--END_SECTION:waka-->
