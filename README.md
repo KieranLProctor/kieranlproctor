@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 hrs 23 mins
+Total Time: 6 hrs 18 mins
 
-TypeScript       2 hrs 12 mins   ████████████▓░░░░░░░░░░░░   50.07 %
-PHP              1 hr 22 mins    ███████▓░░░░░░░░░░░░░░░░░   31.20 %
-C++              45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+PHP              3 hrs 41 mins   ██████████████▓░░░░░░░░░░   58.60 %
+TypeScript       1 hr 47 mins    ███████░░░░░░░░░░░░░░░░░░   28.46 %
+C++              45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
