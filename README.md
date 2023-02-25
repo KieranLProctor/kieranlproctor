@@ -3,11 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 2 mins
+Total Time: 1 hr 41 mins
 
-PHP        1 hr 56 mins    ███████████████████████▓░   95.03 %
-textmate   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Log        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+PHP         1 hr 31 mins    ██████████████████████▒░░   89.42 %
+Bash        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Log         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+JSON        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+.env file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
