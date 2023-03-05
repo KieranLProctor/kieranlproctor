@@ -3,11 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 15 mins
+Total Time: 7 hrs 11 mins
 
-C#               2 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.39 %
-PHP              1 hr 59 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 %
-Other            1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+C#               2 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
+Vue.js           2 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
+PHP              2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+Other            1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
 ```
 
 <!--END_SECTION:waka-->
