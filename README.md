@@ -3,9 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 30 mins
+Total Time: 34 mins
 
-C++   30 mins         █████████████████████████   100.00 %
+C++          30 mins         ████████████████████░░░░░   79.43 %
+Other        3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+TypeScript   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
