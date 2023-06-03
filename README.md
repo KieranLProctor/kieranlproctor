@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 8 hrs 32 mins
 
 TypeScript   7 hrs 26 mins   █████████████████████▓░░░   86.37 %
