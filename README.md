@@ -3,13 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 7 mins
+Total Time: 7 mins
 
-PHP              57 mins         █████████████████████▒░░░   84.69 %
-Log              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-.env file        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-SmartyConfig     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+PHP   6 mins          ████████████████████▒░░░░   81.01 %
+Log   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
 ```
 
 <!--END_SECTION:waka-->
