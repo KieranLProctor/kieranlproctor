@@ -3,11 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 mins
+Total Time: 14 mins
 
-TypeScript   14 mins         ████████████████░░░░░░░░░   64.59 %
-PHP          6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-Log          1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+TypeScript   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
