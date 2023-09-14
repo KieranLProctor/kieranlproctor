@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 hrs 5 mins
 
-No activity tracked
+PHP          2 hrs 49 mins   ███████████████████████░░   91.53 %
+TypeScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+.env file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
