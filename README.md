@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 31 mins
+Total Time: 2 hrs
 
-PHP         1 hr 30 mins    ████████████████████████▓   98.69 %
-Bash        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Brainfuck   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PHP    1 hr 59 mins    █████████████████████████   99.92 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
