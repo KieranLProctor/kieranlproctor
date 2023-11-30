@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 42 mins
+Total Time: 8 hrs 12 mins
 
-TypeScript   7 hrs 8 mins    ██████████████░░░░░░░░░░░   56.19 %
-PHP          5 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.86 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   6 hrs 35 mins   ████████████████████░░░░░   80.46 %
+PHP          1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
