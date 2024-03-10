@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 5 mins
+Total Time: 2 hrs 3 mins
 
-TypeScript   2 hrs 3 mins    ████████████████████████░   96.01 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+TypeScript   2 hrs 3 mins    ████████████████████████▒   97.83 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
