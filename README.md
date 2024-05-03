@@ -3,9 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 mins
 
-No activity tracked
+JavaScript   2 mins          ██████████████░░░░░░░░░░░   56.48 %
+CMake        1 min           ███████▓░░░░░░░░░░░░░░░░░   30.09 %
+INI          0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
 ```
 
 <!--END_SECTION:waka-->
