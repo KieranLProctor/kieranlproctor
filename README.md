@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 17 mins
+Total Time: 1 hr 40 mins
 
-TypeScript   1 hr 10 mins    ███████████████████████░░   91.74 %
-INI          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-CMake        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript   1 hr 10 mins    █████████████████▓░░░░░░░   70.09 %
+HTML         23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+INI          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+CMake        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
