@@ -15,5 +15,4 @@ INI        7 mins          █▒░░░░░░░░░░░░░░░�
 ### 📫 Where to find me:
 
 -   Website: [kieranproctor.com](https://kieranproctor.com/)
--   LinkedIn: [here](https://www.linkedin.com/in/kieran-proctor-086b5a159/)
 -   Twitter: [@kieran_proctor](https://twitter.com/kieran_proctor)
