@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 3 mins
+Total Time: 3 hrs 22 mins
 
-C            1 hr 21 mins    ███████████░░░░░░░░░░░░░░   44.22 %
-TypeScript   1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.42 %
-Assembly     33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-INI          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+C            1 hr 21 mins    ██████████░░░░░░░░░░░░░░░   40.02 %
+TypeScript   1 hr 1 min      ███████▓░░░░░░░░░░░░░░░░░   30.24 %
+Assembly     36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+Lua          12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+INI          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
