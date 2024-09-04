@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 17 mins
+Total Time: 3 hrs 46 mins
 
-TypeScript   2 hrs 29 mins   ████████▓░░░░░░░░░░░░░░░░   34.17 %
-PHP          1 hr 50 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-C#           1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Assembly     1 hr 16 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+PHP          1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   31.52 %
+Assembly     1 hr 6 mins     ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+C#           58 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
+TypeScript   28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+.env file    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
