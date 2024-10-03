@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 32 mins
+Total Time: 2 hrs 55 mins
 
-Assembly      2 hrs 22 mins   ████████████████▓░░░░░░░░   67.33 %
-TypeScript    46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-JSON          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-JavaScript    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-ObjectiveC    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Assembly     2 hrs 22 mins   ████████████████████▒░░░░   81.10 %
+C#           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+C++          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+ObjectiveC   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
 ```
 
 <!--END_SECTION:waka-->
