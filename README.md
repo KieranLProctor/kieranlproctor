@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 19 mins
+Total Time: 8 hrs 27 mins
 
-Assembly     3 hrs 11 mins   ███████████░░░░░░░░░░░░░░   43.51 %
-C            2 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-ObjectiveC   1 hr 14 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-C++          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-C#           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Assembly     3 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.63 %
+C            2 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
+C#           1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+ObjectiveC   1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+TypeScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
