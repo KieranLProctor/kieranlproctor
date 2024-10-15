@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 6 mins
+Total Time: 1 hr 59 mins
 
-Assembly     3 hrs 12 mins   ███████████████▓░░░░░░░░░   62.95 %
-C#           1 hr 34 mins    ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-TypeScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-C++          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C#           1 hr 34 mins    ████████████████████░░░░░   79.70 %
+TypeScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Assembly     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+C++          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
