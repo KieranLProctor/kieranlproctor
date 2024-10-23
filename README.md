@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 28 mins
+Total Time: 3 hrs 5 mins
 
-C#               1 hr 45 mins    ████████████▓░░░░░░░░░░░░   50.19 %
-ObjectiveC       49 mins         ██████░░░░░░░░░░░░░░░░░░░   23.53 %
-C                49 mins         ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+C#               1 hr 22 mins    ███████████░░░░░░░░░░░░░░   44.53 %
+ObjectiveC       49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
+C                49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+CMake            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
