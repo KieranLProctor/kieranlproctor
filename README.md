@@ -3,13 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 19 mins
+Total Time: 3 hrs 52 mins
 
-C#           4 hrs 22 mins   ████████████████████▓░░░░   82.17 %
-ObjectiveC   32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-C            24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#      3 hrs 52 mins   █████████████████████████   99.99 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
