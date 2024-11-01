@@ -3,10 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 7 mins
+Total Time: 2 hrs 7 mins
 
-C#      3 hrs 7 mins    █████████████████████████   99.98 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP              1 hr 31 mins    ██████████████████░░░░░░░   71.62 %
+Markdown         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+.env file        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Text             8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JSON             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
