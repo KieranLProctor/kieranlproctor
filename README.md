@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 10 mins
+Total Time: 2 hrs 35 mins
 
-C++              1 hr 46 mins    ████████████████████▒░░░░   81.68 %
-CMake            9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-GitIgnore file   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-ObjectiveC       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+C++              1 hr 46 mins    █████████████████░░░░░░░░   68.38 %
+JSON             18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+CMake            9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+GitIgnore file   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+ObjectiveC       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
