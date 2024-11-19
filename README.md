@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 35 mins
+Total Time: 24 mins
 
-C++              1 hr 46 mins    █████████████████░░░░░░░░   68.38 %
-JSON             18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-CMake            9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-GitIgnore file   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-ObjectiveC       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+JSON         18 mins         █████████████████▓░░░░░░░   70.91 %
+TSConfig     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+TypeScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
