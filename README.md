@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 36 mins
+Total Time: 5 hrs 16 mins
 
-PHP              3 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   35.09 %
-C++              2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-Blade Template   1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
-JSON             1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-CMake            35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+C++              2 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.75 %
+JSON             55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+Blade Template   47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+PHP              41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+CMake            35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 ```
 
 <!--END_SECTION:waka-->
