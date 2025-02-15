@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 7 mins
+Total Time: 8 hrs 19 mins
 
-PHP              4 hrs 15 mins   ████████████████████▓░░░░   83.07 %
-JSON             30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-NEON             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-GitIgnore file   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+PHP              6 hrs 24 mins   ███████████████████▒░░░░░   76.68 %
+JSON             45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+TypeScript       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+NEON             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
