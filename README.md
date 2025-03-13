@@ -17,4 +17,3 @@ Bash             16 mins         █▒░░░░░░░░░░░░░�
 ### 📫 Where to find me:
 
 -   Website: [kieranproctor.com](https://kieranproctor.com/)
--   Twitter: [@kieran_proctor](https://twitter.com/kieran_proctor)
