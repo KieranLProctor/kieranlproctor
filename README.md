@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 25 mins
+Total Time: 5 hrs 32 mins
 
-TypeScript   3 hrs 40 mins   ████████████████████▓░░░░   83.27 %
-PHP          40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-ObjectiveC   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript   4 hrs 31 mins   ████████████████████▒░░░░   81.61 %
+PHP          40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+ObjectiveC   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+C            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+CMake        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
