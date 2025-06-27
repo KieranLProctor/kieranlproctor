@@ -3,9 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 min
 
-No activity tracked
+Markdown         1 min           █████████████████▓░░░░░░░   70.77 %
+GitIgnore file   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+CMake            0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+JSON             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
