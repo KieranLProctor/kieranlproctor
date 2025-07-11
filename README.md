@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 13 mins
+Total Time: 7 hrs 48 mins
 
-C++              3 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   43.29 %
-CMake            2 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   36.11 %
-C                41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-ObjectiveC       23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-TypeScript       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+C++              3 hrs 22 mins   ██████████▓░░░░░░░░░░░░░░   43.26 %
+CMake            2 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.20 %
+C                59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+ObjectiveC       44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
