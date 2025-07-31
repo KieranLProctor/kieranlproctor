@@ -3,12 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 37 mins
+Total Time: 1 hr 33 mins
 
-C++              1 hr 1 min      ████████████████░░░░░░░░░   63.76 %
-ObjectiveC       33 mins         ████████▓░░░░░░░░░░░░░░░░   34.39 %
-CMake            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C++          1 hr            ████████████████▒░░░░░░░░   65.10 %
+ObjectiveC   32 mins         ████████▓░░░░░░░░░░░░░░░░   34.84 %
+CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
