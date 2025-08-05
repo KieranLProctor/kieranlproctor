@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 33 mins
+Total Time: 0 secs
 
-C++          1 hr            ████████████████▒░░░░░░░░   65.10 %
-ObjectiveC   32 mins         ████████▓░░░░░░░░░░░░░░░░   34.84 %
-CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+ObjectiveC   0 secs          █████████████████████████   99.69 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
