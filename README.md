@@ -5,8 +5,7 @@
 ```txt
 Total Time: 0 secs
 
-ObjectiveC   0 secs          █████████████████████████   99.69 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
