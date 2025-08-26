@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 22 mins
+Total Time: 0 secs
 
-C++              1 hr 43 mins    ██████████████████▒░░░░░░   73.03 %
-Markdown         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-ObjectiveC       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-CMake            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
