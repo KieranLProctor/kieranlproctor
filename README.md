@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 7 mins
+Total Time: 11 hrs 56 mins
 
-C++              10 hrs 51 mins  ██████████████████████▒░░   89.52 %
-ObjectiveC       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-CMake            25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-textmate         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Git Config       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+C++              10 hrs 43 mins  ██████████████████████▒░░   89.71 %
+ObjectiveC       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+CMake            24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+textmate         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Git Config       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
