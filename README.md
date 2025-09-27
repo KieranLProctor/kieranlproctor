@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 32 mins
 
-No activity tracked
+PHP              20 mins         ████████████████▒░░░░░░░░   64.77 %
+Markdown         7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+JSON             3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
