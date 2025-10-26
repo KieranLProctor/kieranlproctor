@@ -3,9 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 28 mins
 
-No activity tracked
+Markdown   14 mins         ████████████▓░░░░░░░░░░░░   50.56 %
+C++        10 mins         █████████▒░░░░░░░░░░░░░░░   37.32 %
+CMake      3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
 ```
 
 <!--END_SECTION:waka-->
