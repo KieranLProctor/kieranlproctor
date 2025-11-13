@@ -3,12 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 27 mins
+Total Time: 27 mins
 
-C++          42 mins         ████████████░░░░░░░░░░░░░   48.15 %
-TypeScript   23 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-CMake        16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
-C/C          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+TypeScript   27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
