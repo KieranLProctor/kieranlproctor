@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 28 mins
+Total Time: 6 hrs 30 mins
 
-C++          6 hrs 23 mins   ████████████████████████░   96.58 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+C++          6 hrs 23 mins   ████████████████████████░   96.00 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Java         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
