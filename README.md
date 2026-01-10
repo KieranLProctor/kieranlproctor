@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 27 mins
+Total Time: 25 mins
 
-C++        1 hr 25 mins    █████████████▓░░░░░░░░░░░   54.62 %
-Makefile   34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
-Java       25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Other      9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-HTML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Java   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
