@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 mins
+Total Time: 57 mins
 
-Java   25 mins         █████████████████████████   100.00 %
+Java             25 mins         ███████████░░░░░░░░░░░░░░   43.51 %
+GLSL shader      11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+C++              8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+CMakeLists.txt   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+CMake            3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 ```
 
 <!--END_SECTION:waka-->
