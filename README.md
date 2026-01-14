@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 21 mins
+Total Time: 3 hrs 55 mins
 
-C++              1 hr 23 mins    ██████████████▓░░░░░░░░░░   59.30 %
-GLSL shader      39 mins         ███████░░░░░░░░░░░░░░░░░░   28.02 %
-CMakeLists.txt   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-CMake            5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C++              2 hrs 47 mins   █████████████████▓░░░░░░░   70.88 %
+GLSL shader      39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+CMakeLists.txt   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+CMake            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+INI              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
