@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 43 mins
+Total Time: 1 hr 54 mins
 
-Markdown         2 hrs 9 mins          ███████████▒░░░░░░░░░░░░░   45.58 %
-TypeScript       1 hr 11 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-PHP              55 mins               █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-GitIgnore file   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-C++              6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+PHP              1 hr 12 mins          ███████████████▓░░░░░░░░░   62.94 %
+Markdown         14 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+TypeScript       13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+GitIgnore file   7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+.env file        4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
