@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 33 mins
+Total Time: 20 hrs 41 mins
 
-JavaScript       6 hrs 29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.86 %
-C++              5 hrs 52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
-Markdown         3 hrs 20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-PHP              2 hrs 7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-C                1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+JavaScript    10 hrs 9 mins         ████████████▒░░░░░░░░░░░░   48.74 %
+C++           4 hrs 50 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
+PHP           2 hrs 7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Markdown      1 hr 51 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+CMake         25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
