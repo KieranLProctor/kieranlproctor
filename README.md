@@ -13,7 +13,3 @@ C++              1 hr 33 mins          █▓░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### 📫 Where to find me:
-
--   Website: [kieranproctor.com](https://kieranproctor.com/)
