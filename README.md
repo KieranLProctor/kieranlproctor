@@ -13,3 +13,5 @@ Other        1 hr 9 mins           █▓░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KieranLProctor&show_icons=true&theme=radical&hide_border=true)
